@@ -13,13 +13,6 @@
 @font-face {
     font-family: 'PT Sans';
     font-style: normal;
-    font-weight: 400;
-    src: local('PT Sans'), local('PTSans-Regular'), url("../fonts/PT_Sans-Web-Regular.ttf") format('woff2');
-}
-
-@font-face {
-    font-family: 'PT Sans';
-    font-style: normal;
     font-weight: 700;
     src: local('PT Sans Bold'), local('PTSans-Bold'), url("../fonts/PT_Sans-Web-Bold.ttf") format('woff2');
 }
